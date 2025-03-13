@@ -37,3 +37,5 @@ mendilin halk inanışları ve ritüellerindeki işlevleri incelenmiş ve tasnif
 bölümde ise seyahatnamelerde mendilin nerede ve hangi işlevlerle geçtiği araştırılmış, elde
 edilen verilerin tasnifi yapılmıştır. Türk kültüründe ve Türk halk edebiyatı ürünleri içinde
 mendilin işlevsel bir kültür taşıyıcısı olduğu görülmüştür.
+
+[Tezi İndir](https://github.com/Faruk372742/meral-avci-turk-halk-kulturunde-mendil-yukseklisans-tez/blob/main/Turk-Halk-Kultunde-Mendil-Meral-Avci.pdf)
